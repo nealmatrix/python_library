@@ -1,0 +1,4 @@
+sudo pip3 uninstall ttcommon;
+sudo python setup.py clean;
+sudo python setup.py build;
+sudo python setup.py install;
