@@ -1,0 +1,7 @@
+# Apple
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+/test*.py

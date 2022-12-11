@@ -1,5 +1,7 @@
 class CfgSectionsConst:
-    pass
+    SLACK = 'Slack'
 
 class CfgFieldsConst:
-    pass
+    CHANNEL = 'channel'
+    MEMBER_ID = 'memberId'
+    TOKEN = 'token'
